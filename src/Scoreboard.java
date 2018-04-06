@@ -9,6 +9,7 @@ public class Scoreboard
 public Scoreboard(int capacity) 
 {
     maxEnter = capacity;
+    // trial 1
 }
 
 //create temp
