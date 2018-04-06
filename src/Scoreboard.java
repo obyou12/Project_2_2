@@ -9,8 +9,12 @@ public class Scoreboard
 public Scoreboard(int capacity) // skdfgjlksdfjgsdg
 {
     maxEnter = capacity;
+<<<<<<< HEAD
     // HLEllo
     
+=======
+    // trial 1
+>>>>>>> trial1
 }
 
 //create temp
