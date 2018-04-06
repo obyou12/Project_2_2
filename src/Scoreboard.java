@@ -5,10 +5,12 @@ public class Scoreboard
     private SinglyLinkedList<GameEntry> objLink = new SinglyLinkedList();
   
     private int maxEnter = 0;
-    
-public Scoreboard(int capacity) 
+    // hellokdldsfkgl;ksd;g;ldfgdfgsdfgglkdsf;glskdf;gsdf;lgks;dl
+public Scoreboard(int capacity) // skdfgjlksdfjgsdg
 {
     maxEnter = capacity;
+    // HLEllo
+    
 }
 
 //create temp
